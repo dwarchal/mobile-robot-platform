@@ -23,6 +23,7 @@ SLAM and navigation come from proven open-source stacks (SLAM Toolbox, Nav2).
 | Power | 6× AA NiMH (Panasonic eneloop) |
 
 Full parts list with part numbers and prices: [docs/bom.md](docs/bom.md).
+Build log with photos: [docs/assembly.md](docs/assembly.md).
 
 ## Status
 
@@ -61,6 +62,7 @@ The ROS 2 interfaces `/cmd_vel`, `/odom`, `/scan` stay fixed, so one swap does n
 
 ```
 docs/
+  assembly.md     build log with photos, stage by stage
   bom.md          parts list
   decisions.md    design decisions with rationale
   photos/         parts and assembly photos (resized, metadata stripped)
