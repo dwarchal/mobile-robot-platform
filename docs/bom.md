@@ -13,7 +13,7 @@ TME prices are net (excl. VAT); Swiss shop prices include Swiss VAT.
 | 4 | Romi 32U4 Control Board | Pololu 3544 | BerryBase CH | [link](https://www.berrybase.ch/pololu-romi-32u4-control-board) | 1 | CHF 68.10 |
 | 5 | RPLIDAR C1 laser ranging sensor (incl. CP2102 USB adapter and cable) | Slamtec C1 | Maker-Shop | [link](https://www.maker-shop.ch/rplidar-c1-laser-ranging-sensor) | 1 | CHF 79.90 |
 | 6 | eneloop AA 2000 mAh NiMH, 8-pack | Panasonic | digitec | [link](https://www.digitec.ch/en/s1/product/panasonic-eneloop-8-pcs-aa-2000-mah-batteries-5828759) | 2 | CHF 79 for 6 + 7 together |
-| 7 | eneloop 8-slot charger | Panasonic BQ-CC63 | digitec | — | 1 | (see 6) |
+| 7 | eneloop 8-slot charger | Panasonic BQ-CC63 | digitec | [link](https://www.digitec.ch/en/s1/product/panasonic-eneloop-8-zellen-charger-bq-cc63-1-pcs-chargers-without-battery-battery-charger-8770383) | 1 | (see 6) |
 
 ## Already owned
 
