@@ -1,0 +1,19 @@
+name: photos
+
+on:
+  push:
+    paths: ["docs/photos/**", "scripts/prepare_photos.py"]
+  pull_request:
+    paths: ["docs/photos/**", "scripts/prepare_photos.py"]
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pillow
+      - name: No metadata, max 1600 px
+        run: python3 scripts/prepare_photos.py --check docs/photos

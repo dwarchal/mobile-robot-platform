@@ -1,0 +1,30 @@
+# Secrets and local network config — never in this public repo
+.env
+*.env
+secrets/
+wpa_supplicant.conf
+*.pem
+*.key
+id_*
+
+# Raw photos (process with scripts/prepare_photos.py into docs/photos/)
+raw-photos/
+*.HEIC
+*.heic
+*.dng
+*.DNG
+
+# ROS 2 / colcon build output
+build/
+install/
+log/
+
+# Recorded data
+*.db3
+*.mcap
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+__pycache__/
