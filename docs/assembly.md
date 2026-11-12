@@ -20,7 +20,7 @@ during testing.
 
 | Delivered | Unboxed (tape measure in cm) | Charging |
 |---|---|---|
-| ![Battery packs and charger in boxes](photos/2026-11-12-batteries-delivered.jpg) | ![Batteries, charger and cable unboxed](photos/2026-11-12-batteries-unboxed.jpg) | ![Charger with 8 cells, green LEDs](photos/2026-11-12-batteries-charging.jpg) |
+| ![Battery packs and charger in boxes](photos/2026-11-12-batteries-delivered.jpg) | ![Batteries, charger and cable unboxed](photos/2026-11-12-batteries-unboxed.jpg) | ![Charger with 8 cells, green LEDs](photos/2026-11-12-batteries-in-charger.jpg) |
 
 ## 1. Soldering the 32U4 control board
 
