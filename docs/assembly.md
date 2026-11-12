@@ -4,7 +4,7 @@ Step-by-step build of the robot, with photos. Each stage: what was done, photos,
 how they were solved, time spent. Reference: [Romi 32U4 User's Guide](https://www.pololu.com/docs/0J69),
 [Romi Chassis User's Guide](https://www.pololu.com/docs/0J68).
 
-Status: ⚪ not started — parts expected mid-November 2026.
+Status: 🟡 parts arriving — batteries and charger delivered 2026-11-12.
 
 ---
 
@@ -12,7 +12,15 @@ Status: ⚪ not started — parts expected mid-November 2026.
 
 All parts from the [BOM](bom.md) laid out together.
 
-<!-- photo: docs/photos/YYYY-MM-DD-parts-overview.jpg -->
+<!-- photo: docs/photos/YYYY-MM-DD-parts-overview.jpg (when all parts are here) -->
+
+**2026-11-12 — batteries and charger** (BOM #6, #7): 2× eneloop 8× AA 2000 mAh NiMH and the
+Panasonic BQ-CC63 8-slot charger. The robot uses 6 cells; the other 10 are spares for swapping
+during testing. First full charge done.
+
+| Delivered | Unboxed (tape measure in cm) | Charging |
+|---|---|---|
+| ![Battery packs and charger in boxes](photos/2026-11-12-batteries-delivered.jpg) | ![Batteries, charger and cable unboxed](photos/2026-11-12-batteries-unboxed.jpg) | ![Charger with 8 cells, green LEDs](photos/2026-11-12-batteries-charging.jpg) |
 
 ## 1. Soldering the 32U4 control board
 
