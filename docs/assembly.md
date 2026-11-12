@@ -16,7 +16,7 @@ All parts from the [BOM](bom.md) laid out together.
 
 **2026-11-12 — batteries and charger** (BOM #6, #7): 2× eneloop 8× AA 2000 mAh NiMH and the
 Panasonic BQ-CC63 8-slot charger. The robot uses 6 cells; the other 10 are spares for swapping
-during testing. First full charge done.
+during testing.
 
 | Delivered | Unboxed (tape measure in cm) | Charging |
 |---|---|---|
