@@ -4,7 +4,7 @@ Step-by-step build of the robot, with photos. Each stage: what was done, photos,
 how they were solved, time spent. Reference: [Romi 32U4 User's Guide](https://www.pololu.com/docs/0J69),
 [Romi Chassis User's Guide](https://www.pololu.com/docs/0J68).
 
-Status: 🟡 parts arriving — batteries and charger delivered 2026-11-12.
+Status: 🟡 parts arriving — batteries and charger (2026-11-12), RPLIDAR C1 (2026-11-13) delivered.
 
 ---
 
@@ -21,6 +21,13 @@ during testing.
 | Delivered | Unboxed (tape measure in cm) | Charging |
 |---|---|---|
 | ![Battery packs and charger in boxes](photos/2026-11-12-batteries-delivered.jpg) | ![Batteries, charger and cable unboxed](photos/2026-11-12-batteries-unboxed.jpg) | ![Charger with 8 cells, green LEDs](photos/2026-11-12-batteries-in-charger.jpg) |
+
+**2026-11-13 — lidar** (BOM #5): Slamtec RPLIDAR C1 with its 4-pin cable, the USB adapter board
+and a USB cable — everything needed to connect it to the Raspberry Pi over USB.
+
+| Delivered | In the box | Unboxed (tape measure in cm) |
+|---|---|---|
+| ![RPLIDAR C1 box](photos/2026-11-13-lidar-delivered.jpg) | ![Opened box: lidar, adapter board and cable in foam](photos/2026-11-13-lidar-in-box.jpg) | ![Lidar with cable, USB adapter board and USB cable](photos/2026-11-13-lidar-unboxed.jpg) |
 
 ## 1. Soldering the 32U4 control board
 
