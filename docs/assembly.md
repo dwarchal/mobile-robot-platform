@@ -4,7 +4,7 @@ Step-by-step build of the robot, with photos. Each stage: what was done, photos,
 how they were solved, time spent. Reference: [Romi 32U4 User's Guide](https://www.pololu.com/docs/0J69),
 [Romi Chassis User's Guide](https://www.pololu.com/docs/0J68).
 
-Status: 🟡 parts arriving — batteries and charger (2026-11-12), RPLIDAR C1 (2026-11-13) delivered.
+Status: 🟡 parts arriving — batteries and charger (2026-11-12), RPLIDAR C1 (2026-11-13), Romi 32U4 Control Board (2026-11-16) delivered.
 
 ---
 
@@ -28,6 +28,14 @@ and a USB cable — everything needed to connect it to the Raspberry Pi over USB
 | Delivered | In the box | Unboxed (tape measure in cm) |
 |---|---|---|
 | ![RPLIDAR C1 box](photos/2026-11-13-lidar-delivered.jpg) | ![Opened box: lidar, adapter board and cable in foam](photos/2026-11-13-lidar-in-box.jpg) | ![Lidar with cable, USB adapter board and USB cable](photos/2026-11-13-lidar-unboxed.jpg) |
+
+**2026-11-16 — control board** (BOM #4): Pololu Romi 32U4 Control Board with its hardware bags
+(headers, buzzer, standoffs, screws and nuts). The headers and buzzer still have to be soldered
+— stage 1.
+
+| Delivered | Top side (tape measure in cm) | Bottom side |
+|---|---|---|
+| ![Romi 32U4 Control Board in its antistatic bag](photos/2026-11-16-control-board-delivered.jpg) | ![Control board top side with hardware bags](photos/2026-11-16-control-board-top.jpg) | ![Control board bottom side with hardware bags](photos/2026-11-16-control-board-bottom.jpg) |
 
 ## 1. Soldering the 32U4 control board
 
