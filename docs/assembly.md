@@ -4,7 +4,7 @@ Step-by-step build of the robot, with photos. Each stage: what was done, photos,
 how they were solved, time spent. Reference: [Romi 32U4 User's Guide](https://www.pololu.com/docs/0J69),
 [Romi Chassis User's Guide](https://www.pololu.com/docs/0J68).
 
-Status: 🟡 parts arriving — batteries and charger (2026-11-12), RPLIDAR C1 (2026-11-13), Romi 32U4 Control Board (2026-11-16) delivered.
+Status: 🟢 all parts delivered (last: TME parcel, 2026-11-18) — assembly not started.
 
 ---
 
@@ -36,6 +36,15 @@ and a USB cable — everything needed to connect it to the Raspberry Pi over USB
 | Delivered | Top side (tape measure in cm) | Bottom side |
 |---|---|---|
 | ![Romi 32U4 Control Board in its antistatic bag](photos/2026-11-16-control-board-delivered.jpg) | ![Control board top side with hardware bags](photos/2026-11-16-control-board-top.jpg) | ![Control board bottom side with hardware bags](photos/2026-11-16-control-board-bottom.jpg) |
+
+**2026-11-18 — chassis, encoders, regulator** (BOM #1, #2, #3): Pololu Romi chassis kit (base
+plate, two motors in their clips, wheels with tires, ball caster, battery contacts), the Romi
+encoder pair kit (two encoder boards, magnetic discs, headers) and the D36V28F5 5 V regulator
+(reserve, see [D2](decisions.md#d2-power)). With this, all parts from the BOM are here.
+
+| Delivered | Chassis kit | Encoders | Regulator |
+|---|---|---|---|
+| ![Chassis kit, regulator and encoders in their bags](photos/2026-11-18-tme-delivered.jpg) | ![Romi chassis kit unboxed](photos/2026-11-18-chassis-unboxed.jpg) | ![Encoder pair kit unboxed](photos/2026-11-18-encoders-unboxed.jpg) | ![5 V step-down regulator with headers](photos/2026-11-18-regulator-unboxed.jpg) |
 
 ## 1. Soldering the 32U4 control board
 

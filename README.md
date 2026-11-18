@@ -29,7 +29,7 @@ Build log with photos: [docs/assembly.md](docs/assembly.md).
 
 | Area | State |
 |---|---|
-| Hardware | 🟡 parts ordered (2026-11-10), waiting for delivery |
+| Hardware | 🟢 all parts delivered (2026-11-18) |
 | Assembly | ⚪ not started |
 | Software | ⚪ not started |
 
